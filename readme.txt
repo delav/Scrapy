@@ -1,1 +1,1 @@
-delav
+Scrapy spider
